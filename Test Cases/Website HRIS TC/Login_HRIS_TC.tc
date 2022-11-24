@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_HRIS_TC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4260b21a-3a62-4cb9-8c9c-ef552d490d19</testCaseGuid>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>537a10ab-cacc-44b9-922d-58eb903988d4</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123'</defaultValue>
+      <description></description>
+      <id>6b765a94-99ce-4698-b269-dfb49a4572ee</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
